@@ -79,6 +79,9 @@ Every user action (add, edit, check, delete) triggers `saveTask()`, which serial
 
 ---
 
+##  Preview
+![Interface Preview](Screenshot.png)
+
 ##  Repo Description
 
 > A neumorphic to-do list app with dark/light theme toggle, smooth filter animations, and localStorage persistence — built with pure HTML, CSS, and JavaScript.
